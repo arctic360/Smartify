@@ -1,0 +1,4 @@
+??/??/?? - Smartify2 goes offline
+10/26/23 - Smartify3 planned, repository reposted and edited
+10/26/23 - Smartify3 build on Cyclic.sh failed
+10/27/23 - General repository edits occur
